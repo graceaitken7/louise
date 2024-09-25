@@ -1,9 +1,9 @@
 ---
-layout: poem
-title: A Julia de Burgos
-author: Julia de Burgos
-editor: Alex Gil
-source: Ciudad Seva
+layout: prose
+title: Facing the Music
+author: Louise Bryant
+editor: Grace Aitken 
+source: Yale University Manuscripts and Archives
 ---
 
 - Ya las gentes murmuran que yo soy tu enemiga
