@@ -1,10 +1,10 @@
 ---
 layout: narrative
-title: "Narrative of the Life of Frederick Douglass"
-author: Frederick Douglass
-editor: Alex Gil
+title: Facing the Music
+author: Louise Bryant
+editor: Grace Aitken
 rights: Public Domain
-source: Project Guttenberg
+source: Yale University Manuscripts and Archives
 publication-date: 2016
 toc:
 - Title Page
