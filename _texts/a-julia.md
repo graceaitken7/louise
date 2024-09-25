@@ -1,9 +1,9 @@
 ---
-layout: prose
-title: Facing the Music
-author: Louise Bryant
-editor: Grace Aitken 
-source: Yale University Manuscripts and Archives
+layout: poem
+title: A Julia
+author: A Julia
+editor: Alex Gil 
+source: Ciudad Seva
 ---
 
 - Ya las gentes murmuran que yo soy tu enemiga
