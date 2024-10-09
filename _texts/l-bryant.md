@@ -8,7 +8,7 @@ source: Yale University Manuscripts and Archives
 
 ## Editor's note
 
-This version of 
+This text is a manuscript by Louise Bryant, a leftist feminist activist in the United States in the early 20th century. She wrote this essay when she traveled to France as a journalist during the first World War, yet it was never published. This copy is in her papers in the Yale Library Archives.  
 ---
 
 <a id="title-page" />
